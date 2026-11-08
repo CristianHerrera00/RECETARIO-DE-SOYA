@@ -37,15 +37,15 @@ a {
 
 /* Imágenes de cada preparación (carpeta imagenes/) */
 .img-pan-de-soya {
-    background-image: url("imagenes/pan_soya.png"), linear-gradient(135deg, var(--amarillo), #f39c12);
+    background-image: url("pan_soya.png"), linear-gradient(135deg, var(--amarillo), #f39c12);
 }
 
 .img-mantecada-de-soya {
-    background-image: url("imagenes/mantecada_soya.png"), linear-gradient(135deg, var(--azul-claro), var(--azul));
+    background-image: url("mantecada_soya.png"), linear-gradient(135deg, var(--azul-claro), var(--azul));
 }
 
 .img-arepas-de-soya {
-    background-image: url("imagenes/arepa_de_soya.png"), linear-gradient(135deg, var(--amarillo-fuerte), var(--azul));
+    background-image: url("arepa_de_soya.png"), linear-gradient(135deg, var(--amarillo-fuerte), var(--azul));
 }
 
 .img-pan-de-soya,
@@ -83,7 +83,7 @@ a {
     height: 60px;
     border-radius: 50%;
     border: 3px solid var(--amarillo);
-    background: url("imagenes/uniminuto.jpg") center 45% / 130%, var(--azul-oscuro);
+    background: url("uniminuto.jpg") center 45% / 130%, var(--azul-oscuro);
     box-shadow: 0 0 0 4px rgba(255, 206, 0, 0.25);
 }
 
@@ -152,7 +152,7 @@ a {
     margin-right: 40px;
     border-radius: 50%;
     border: 14px solid var(--amarillo);
-    background: url("imagenes/portada.png") center / cover, var(--amarillo);
+    background: url("portada.png") center / cover, var(--amarillo);
     box-shadow: 0 0 0 30px rgba(255, 206, 0, 0.25), 0 0 0 60px rgba(255, 206, 0, 0.1);
 }
 
